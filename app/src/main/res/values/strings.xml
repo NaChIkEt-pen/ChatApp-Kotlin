@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ChatApp</string>
+    <string name="InputIdText" />
+    <string name="InputIdText1">Enter Broadcast ID</string>
+    <string name="InputText2">Enter Username</string>
+    <string name="BtnString1">Sign In</string>
 </resources>
