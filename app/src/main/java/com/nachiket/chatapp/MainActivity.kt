@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
     var BroadId  : String ="";
     var UserName :String = "";
 
-
+//nachi
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
